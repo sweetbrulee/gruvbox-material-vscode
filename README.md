@@ -206,4 +206,4 @@ See [CONTRIBUTING.md](https://github.com/sainnhe/gruvbox-material-vscode/blob/ma
 
 ## License
 
-[MIT License](LICENSE)
+[MIT License](https://github.com/sweetbrulee/gruvbox-material-vscode/blob/master/LICENSE)
