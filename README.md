@@ -1,10 +1,11 @@
-> [!IMPORTANT]  
-> Since vscode is not my daily editor and lack of time, this repo is no longer maintained. Welcome to fork this repo and publish a new extension to marketplace.
+> [!NOTE]
+> This is an unofficial fork of [sainnhe/gruvbox-material-vscode](https://github.com/sainnhe/gruvbox-material-vscode), which was archived in January 2026.
+> It is maintained by [@sweetbrulee](https://github.com/sweetbrulee) and is not affiliated with the original author. Please report issues [here](https://github.com/sweetbrulee/gruvbox-material-vscode/issues), not upstream.
 
 ---
 
 <h1 align="center">
-𝐆𝐫𝐮𝐯𝐛𝐨𝐱 𝐌𝐚𝐭𝐞𝐫𝐢𝐚𝐥
+𝐆𝐫𝐮𝐯𝐛𝐨𝐱 𝐌𝐚𝐭𝐞𝐫𝐢𝐚𝐥 (sweetbrulee fork)
 </h1>
 
 <h2 align="center">
@@ -44,16 +45,10 @@
 ![light-soft-high-contrast](https://gitlab.com/sainnhe/img/-/raw/master/gm-vsc-light-soft-high-contrast.png)
 
 <p align="center">
-    <a href="https://marketplace.visualstudio.com/items?itemName=sainnhe.gruvbox-material" alt="Marketplace">
-        <img src="https://img.shields.io/badge/vscode-marketplace-blue" /></a>
-    <a href="https://open-vsx.org/extension/sainnhe/gruvbox-material" alt="Registry">
-        <img src="https://img.shields.io/badge/open--vsx-registry-green" /></a>
-    <a href="https://github.com/sainnhe/gruvbox-material-vscode" alt="Repository">
+    <a href="https://github.com/sweetbrulee/gruvbox-material-vscode" alt="Repository">
         <img src="https://img.shields.io/badge/github-repository-blueviolet" /></a>
-    <a href="https://github.com/sainnhe/gruvbox-material-vscode/issues" alt="Issues">
+    <a href="https://github.com/sweetbrulee/gruvbox-material-vscode/issues" alt="Issues">
         <img src="https://img.shields.io/badge/issue-feedback-red" /></a>
-    <a href="https://vscode.dev/theme/sainnhe.gruvbox-material" alt="Preview">
-        <img src="https://img.shields.io/badge/preview-vscode.dev-yellow" /></a>
 </p>
 
 This color scheme is a port of [Gruvbox Material](https://github.com/sainnhe/gruvbox-material) for Visual Studio Code and its forks.
@@ -211,4 +206,4 @@ See [CONTRIBUTING.md](https://github.com/sainnhe/gruvbox-material-vscode/blob/ma
 
 ## License
 
-[MIT License](https://github.com/sainnhe/gruvbox-material-vscode/blob/master/LICENSE)
+[MIT License](LICENSE)
