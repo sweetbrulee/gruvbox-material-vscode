@@ -232,7 +232,8 @@
     "package": "vsce package && git checkout -- themes",
     "lint": "eslint . --ext .ts",
     "browser": "vscode-test-web --browserType=chromium --extensionDevelopmentPath=. .",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "check:colors": "tsc && node scripts/missing-colors.mjs"
   },
   "lint-staged": {
     "*.ts": "eslint --fix",
